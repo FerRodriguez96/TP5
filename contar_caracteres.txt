@@ -1,0 +1,3 @@
+<? $cadena = "Contarcaracteres.com - Contar caracteres y palabras en Php";
+$ejemplo = strlen($cadena);
+echo "El número de caracteres que tiene la cadena es: $ejemplo."; ?>
